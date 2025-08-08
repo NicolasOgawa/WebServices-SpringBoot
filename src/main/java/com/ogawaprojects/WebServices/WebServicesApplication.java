@@ -10,5 +10,4 @@ public class WebServicesApplication {
 		SpringApplication.run(WebServicesApplication.class, args);
 		System.out.println("Teste");
 	}
-
 }
